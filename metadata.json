@@ -1,0 +1,7 @@
+{
+  "name": "Copy of BloodConnect: One Drop, Endless Hope",
+  "description": "A digital platform that connects blood donors, hospitals, and people in need of blood. This application aims to make blood donation easier, faster, and more reliable by using technology to match donors and recipients instantly.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
